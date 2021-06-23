@@ -1,5 +1,5 @@
 from skimage.transform import resize
-from sklearn.externals import joblib
+import joblib
 import templatematching
 import os.path
 class DeepMachineLearning():
